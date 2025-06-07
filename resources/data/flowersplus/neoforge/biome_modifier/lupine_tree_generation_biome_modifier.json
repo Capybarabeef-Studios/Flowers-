@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "flowersplus:lupine_groove",
+  "features": "flowersplus:lupine_tree_generation",
+  "step": "surface_structures"
+}

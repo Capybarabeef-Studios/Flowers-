@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    "aca",
+    "daa"
+  ],
+  "key": {
+    "a": "minecraft:pink_petals",
+    "b": "minecraft:lilac",
+    "c": "minecraft:peony",
+    "d": "minecraft:allium"
+  },
+  "result": {
+    "id": "flowersplus:aromaflora_block",
+    "count": 1
+  }
+}

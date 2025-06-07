@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT License"
+
+[[mods]]
+modId="flowersplus"
+version="2.0"
+displayName="Flowers+"
+displayURL="https://modrinth.com/mod/flowers+"
+logoFile="logo.png"
+credits="Made by Capybarabeef Studios"
+authors="Beef, Capy"
+description="Flowers+ adds a variety of flowers to the game, including normal sized, tall, and block flowers!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.flowersplus]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.5.58-beta,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.flowersplus]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.5]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

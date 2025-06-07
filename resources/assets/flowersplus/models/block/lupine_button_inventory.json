@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "particle": "flowersplus:block/lupine_planks",
+    "texture": "flowersplus:block/lupine_planks"
+  },
+  "render_type": "solid"
+}

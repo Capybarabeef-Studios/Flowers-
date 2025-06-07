@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "flowersplus:lupine_log",
+    "flowersplus:lupine_log",
+    "flowersplus:lupine_log",
+    "flowersplus:lupine_log"
+  ],
+  "result": {
+    "id": "flowersplus:lupine_wood",
+    "count": 4
+  }
+}

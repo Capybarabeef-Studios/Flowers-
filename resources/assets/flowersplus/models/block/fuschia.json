@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flowersplus:block/fuschiatop",
+    "particle": "flowersplus:block/fuschiatop"
+  },
+  "render_type": "cutout"
+}

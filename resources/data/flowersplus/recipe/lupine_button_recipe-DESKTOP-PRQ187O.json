@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "flowersplus:lupine_wood_plank"
+  ],
+  "result": {
+    "id": "flowersplus:lupine_button",
+    "count": 1
+  }
+}

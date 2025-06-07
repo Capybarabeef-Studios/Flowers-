@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flowersplus:block/lupine_log_top",
+    "up": "flowersplus:block/lupine_log_top",
+    "north": "flowersplus:block/lupine_log_side",
+    "east": "flowersplus:block/lupine_log_side",
+    "south": "flowersplus:block/lupine_log_side",
+    "west": "flowersplus:block/lupine_log_side",
+    "particle": "flowersplus:block/lupine_log_top"
+  },
+  "render_type": "solid"
+}

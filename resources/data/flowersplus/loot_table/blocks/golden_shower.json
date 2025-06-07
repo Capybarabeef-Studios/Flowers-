@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "flowersplus:blocks/golden_shower",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "flowersplus:golden_shower",
+          "conditions": [
+            {
+              "block": "flowersplus:golden_shower",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

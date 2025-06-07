@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "flowersplus:block/lupine_slab"
+    },
+    "type=top": {
+      "model": "flowersplus:block/lupine_slab_top"
+    },
+    "type=double": {
+      "model": "flowersplus:block/lupine_slab_full"
+    }
+  }
+}

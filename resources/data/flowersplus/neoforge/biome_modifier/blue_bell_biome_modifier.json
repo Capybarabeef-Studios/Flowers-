@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_forest",
+  "features": "flowersplus:blue_bell",
+  "step": "vegetal_decoration"
+}

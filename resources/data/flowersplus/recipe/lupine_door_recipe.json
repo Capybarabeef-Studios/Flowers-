@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "flowersplus:lupine_wood_plank"
+  },
+  "result": {
+    "id": "flowersplus:lupine_door",
+    "count": 1
+  }
+}

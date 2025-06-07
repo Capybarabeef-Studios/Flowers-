@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "flowersplus:blocks/cat_tail",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "flowersplus:cat_tail",
+          "conditions": [
+            {
+              "block": "flowersplus:cat_tail",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

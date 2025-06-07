@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "flowersplus:blocks/larkspur",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "flowersplus:larkspur",
+          "conditions": [
+            {
+              "block": "flowersplus:larkspur",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

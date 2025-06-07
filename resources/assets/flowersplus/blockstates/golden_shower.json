@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "flowersplus:block/golden_shower"
+    },
+    "half=lower": {
+      "model": "flowersplus:block/golden_shower_bottom"
+    }
+  }
+}

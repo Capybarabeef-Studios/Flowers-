@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flowersplus:block/pink_larkspur_top",
+    "particle": "flowersplus:block/pink_larkspur_top"
+  },
+  "render_type": "cutout"
+}

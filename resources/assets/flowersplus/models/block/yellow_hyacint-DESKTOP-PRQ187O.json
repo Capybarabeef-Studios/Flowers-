@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flowersplus:block/yellow_hyacinth",
+    "particle": "flowersplus:block/yellow_hyacinth"
+  },
+  "render_type": "cutout"
+}

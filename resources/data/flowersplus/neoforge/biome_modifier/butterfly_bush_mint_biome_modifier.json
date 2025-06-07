@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": {
+    "type": "neoforge:any"
+  },
+  "features": "flowersplus:butterfly_bush_mint",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flowersplus:block/mountain_laurel",
+    "particle": "flowersplus:block/mountain_laurel"
+  },
+  "render_type": "cutout"
+}

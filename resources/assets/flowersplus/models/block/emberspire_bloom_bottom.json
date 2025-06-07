@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flowersplus:block/cardinal_bottom",
+    "particle": "flowersplus:block/cardinal_top"
+  },
+  "render_type": "cutout"
+}

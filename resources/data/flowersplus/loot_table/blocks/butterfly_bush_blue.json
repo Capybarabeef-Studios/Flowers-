@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "flowersplus:blocks/butterfly_bush_blue",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "flowersplus:butterfly_bush_blue",
+          "conditions": [
+            {
+              "block": "flowersplus:butterfly_bush_blue",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

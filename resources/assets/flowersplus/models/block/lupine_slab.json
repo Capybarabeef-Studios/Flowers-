@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "flowersplus:block/lupine_planks",
+    "bottom": "flowersplus:block/lupine_planks",
+    "top": "flowersplus:block/lupine_planks",
+    "side": "flowersplus:block/lupine_planks"
+  },
+  "render_type": "solid"
+}

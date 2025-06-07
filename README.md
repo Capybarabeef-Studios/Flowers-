@@ -24,7 +24,7 @@ The mod **only** supports NeoForge. We're planning to port the mod to **Forge an
 
   * Crafting Recipe: **4 Golden Showers** → **1 Natural Gold**, **4 Natural Gold** → **2 Raw Gold**
 
-* **Cattail to wool**:
+* **Cattail to Strings**:
 
   * Crafting Recipe: **4 Cattails** → **8 String**
 

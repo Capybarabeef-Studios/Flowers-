@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "flowersplus:block/lupine_leaves",
+    "particle": "flowersplus:block/lupine_leaves"
+  }
+}

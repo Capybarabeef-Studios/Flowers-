@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "flowersplus:block/light_blue_larkspur"
+    },
+    "half=lower": {
+      "model": "flowersplus:block/light_blue_larkspur_bottom"
+    }
+  }
+}

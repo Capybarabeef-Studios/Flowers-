@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "windswept_forest",
+    "windswept_gravelly_hills",
+    "windswept_hills",
+    "stony_peaks",
+    "stony_shore"
+  ],
+  "features": "flowersplus:alpine_poppy",
+  "step": "vegetal_decoration"
+}

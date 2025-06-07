@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": {
+    "type": "neoforge:any"
+  },
+  "features": "flowersplus:cat_tail",
+  "step": "vegetal_decoration"
+}

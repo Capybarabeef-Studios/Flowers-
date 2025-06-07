@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "old_growth_birch_forest",
+    "old_growth_pine_taiga",
+    "old_growth_spruce_taiga",
+    "windswept_forest"
+  ],
+  "features": "flowersplus:purple_hibiscus",
+  "step": "vegetal_decoration"
+}

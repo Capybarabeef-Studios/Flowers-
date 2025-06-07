@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": "flowersplus:lupine_wood_plank",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "flowersplus:lupine_fence",
+    "count": 3
+  }
+}

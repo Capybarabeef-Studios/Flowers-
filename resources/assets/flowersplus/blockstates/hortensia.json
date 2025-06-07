@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "flowersplus:block/hortensia"
+    },
+    "half=lower": {
+      "model": "flowersplus:block/hortensia_bottom"
+    }
+  }
+}

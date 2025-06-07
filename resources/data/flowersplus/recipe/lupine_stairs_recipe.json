@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "flowersplus:lupine_wood_plank"
+  },
+  "result": {
+    "id": "flowersplus:lupine_stairs",
+    "count": 4
+  }
+}

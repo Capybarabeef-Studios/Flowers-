@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_right",
+  "textures": {
+    "particle": "flowersplus:block/lupine_door_bottom",
+    "bottom": "flowersplus:block/lupine_door_bottom",
+    "top": "flowersplus:block/lupine_door_top"
+  },
+  "render_type": "cutout"
+}

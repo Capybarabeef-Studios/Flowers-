@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "flowersplus:block/butterfly_bush_red"
+    },
+    "half=lower": {
+      "model": "flowersplus:block/butterfly_bush_red_bottom"
+    }
+  }
+}

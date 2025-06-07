@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flowersplus:block/anemone",
+    "particle": "flowersplus:block/anemone"
+  },
+  "render_type": "cutout"
+}

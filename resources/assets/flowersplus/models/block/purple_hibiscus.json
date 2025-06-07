@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flowersplus:block/phibiscustop",
+    "particle": "flowersplus:block/phibiscustop"
+  },
+  "render_type": "cutout"
+}

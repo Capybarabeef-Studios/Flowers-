@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "flower_forest",
+    "forest",
+    "meadow",
+    "sunflower_plains",
+    "birch_forest",
+    "old_growth_birch_forest"
+  ],
+  "features": "flowersplus:golden_shower",
+  "step": "vegetal_decoration"
+}

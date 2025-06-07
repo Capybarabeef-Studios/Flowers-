@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flowersplus:block/forsythia",
+    "particle": "flowersplus:block/forsythia"
+  },
+  "render_type": "cutout"
+}

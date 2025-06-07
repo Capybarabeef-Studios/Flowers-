@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "flowersplus:block/cat_tail"
+    },
+    "half=lower": {
+      "model": "flowersplus:block/cat_tail_bottom"
+    }
+  }
+}

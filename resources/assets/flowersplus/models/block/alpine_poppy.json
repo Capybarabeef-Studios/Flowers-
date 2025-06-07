@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flowersplus:block/alpine_poppy_1",
+    "particle": "flowersplus:block/alpine_poppy_1"
+  },
+  "render_type": "cutout"
+}

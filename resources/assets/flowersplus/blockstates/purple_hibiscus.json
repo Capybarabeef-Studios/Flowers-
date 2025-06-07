@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "flowersplus:block/purple_hibiscus"
+    },
+    "half=lower": {
+      "model": "flowersplus:block/purple_hibiscus_bottom"
+    }
+  }
+}

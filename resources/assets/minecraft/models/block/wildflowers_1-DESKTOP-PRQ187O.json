@@ -1,0 +1,7 @@
+{
+  "parent": "flowersplus:block/magic_wild_flowers_1",
+  "textures": {
+    "flowerbed": "flowersplus:block/magic_wild_flowers_4",
+    "stem": "flowersplus:block/magic_wildflowers_stem"
+  }
+}

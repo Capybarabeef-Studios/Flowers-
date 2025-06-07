@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "flowersplus:block/emberspire_bloom"
+    },
+    "half=lower": {
+      "model": "flowersplus:block/emberspire_bloom_bottom"
+    }
+  }
+}

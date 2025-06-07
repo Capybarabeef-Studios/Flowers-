@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "flowersplus:block/fuschia"
+    },
+    "half=lower": {
+      "model": "flowersplus:block/fuschia_bottom"
+    }
+  }
+}

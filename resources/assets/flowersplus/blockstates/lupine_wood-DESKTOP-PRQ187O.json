@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "flowersplus:block/lupine_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "flowersplus:block/lupine_wood"
+    },
+    "axis=z": {
+      "model": "flowersplus:block/lupine_wood",
+      "x": 90
+    }
+  }
+}

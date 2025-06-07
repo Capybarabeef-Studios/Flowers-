@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "desert",
+    "badlands"
+  ],
+  "features": "flowersplus:desert_lily",
+  "step": "vegetal_decoration"
+}

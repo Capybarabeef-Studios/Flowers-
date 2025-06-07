@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "flowersplus:golden_shower",
+    "flowersplus:golden_shower",
+    "flowersplus:golden_shower",
+    "flowersplus:golden_shower"
+  ],
+  "result": {
+    "id": "flowersplus:natual_gold",
+    "count": 1
+  }
+}

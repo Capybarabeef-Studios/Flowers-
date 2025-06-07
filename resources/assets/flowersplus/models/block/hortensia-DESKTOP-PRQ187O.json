@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flowersplus:block/hortensiatop",
+    "particle": "flowersplus:block/hortensiatop"
+  },
+  "render_type": "cutout"
+}

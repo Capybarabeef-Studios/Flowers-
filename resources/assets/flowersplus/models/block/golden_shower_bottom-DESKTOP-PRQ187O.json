@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flowersplus:block/goldenshowertexturebottom",
+    "particle": "flowersplus:block/goldenshowertexturetop"
+  },
+  "render_type": "cutout"
+}

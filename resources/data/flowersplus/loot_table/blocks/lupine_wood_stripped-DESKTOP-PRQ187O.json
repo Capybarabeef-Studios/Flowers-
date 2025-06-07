@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "flowersplus:blocks/lupine_wood_stripped",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "flowersplus:lupine_wood_stripped"
+        }
+      ]
+    }
+  ]
+}
